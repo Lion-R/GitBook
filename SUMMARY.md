@@ -31,4 +31,7 @@
   * [开局](kai-shi-you-xi/kai-ju.md)
   * [属性](kai-shi-you-xi/shu-xing.md)
   * [修行与战斗](kai-shi-you-xi/xiu-hang-yu-zhan-dou.md)
+* [经验分享](jing-yan-fen-xiang/README.md)
+  * [屠人五的布局指南](jing-yan-fen-xiang/tu-ren-wu-de-bu-ju-zhi-nan.md)
+  * [简单风水攻略](jing-yan-fen-xiang/jian-dan-feng-shui-gong-lve.md)
 
